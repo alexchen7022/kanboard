@@ -36,6 +36,7 @@ class Config extends Setting
             'SEK' => t('SEK - Swedish Krona'),
             'NOK' => t('NOK - Norwegian Krone'),
             'BAM' => t('BAM - Konvertibile Mark'),
+            'NTD' => t('NTD - New Taiwan Dollar')
         );
     }
 
@@ -90,6 +91,7 @@ class Config extends Setting
             'sv_SE' => 'Svenska',
             'tr_TR' => 'Türkçe',
             'zh_CN' => '中文(简体)',
+            'zh_TW' => '中文(繁體)',
             'ja_JP' => '日本語',
             'th_TH' => 'ไทย',
         );
@@ -129,6 +131,7 @@ class Config extends Setting
             'sv_SE' => 'sv',
             'tr_TR' => 'tr',
             'zh_CN' => 'zh-cn',
+            'zh_TW' => 'zh-tw',
             'ja_JP' => 'ja',
             'th_TH' => 'th',
             'id_ID' => 'id'
